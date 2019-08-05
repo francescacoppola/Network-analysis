@@ -1,0 +1,401 @@
+id;Source;CIUDAD;LATITUD;LONGITUD;País;Target;;LATITUD;LONGITUD;País;weight
+15;      ATF001;Burgenland;47°49?00?N;17°01?00?E;Austria;   ;;;;;3
+19;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;   ;;;;;72091
+135;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;   ;;;;;9221
+226;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;   ;;;;;10
+262;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;   ;;;;;7
+289;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;   ;;;;;3
+328;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;   ;;;;;2071
+366;      ZAD001;Cabo occidental;33°41?54?S;19°29?26?E;South Africa;   ;;;;;1
+372;      ZAD002;Cabo oriental;31°42?44?S;25°37?52?E;South Africa;   ;;;;;2
+378;      ZAD005;Mpumalanga;26°17?27?S;29°16?32?E;South Africa;   ;;;;;5
+20;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AF1;Ab Barik;34°39?04?N;66°15?16?E;Afghanistan;1218
+136;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AF1;Ab Barik;34°39?04?N;66°15?16?E;Afghanistan;347
+329;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;AF1;Ab Barik;34°39?04?N;66°15?16?E;Afghanistan;43
+21;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AF3;Ab Khowrak;35°30?05?N;67°45?40?E;Afghanistan;32795
+137;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AF3;Ab Khowrak;35°30?05?N;67°45?40?E;Afghanistan;3988
+330;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;AF3;Ab Khowrak;35°30?05?N;67°45?40?E;Afghanistan;913
+22;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AF6;Abazey;31°55?00?N;67°44?32?E;Afghanistan;17169
+138;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AF6;Abazey;31°55?00?N;67°44?32?E;Afghanistan;517
+331;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;AF6;Abazey;31°55?00?N;67°44?32?E;Afghanistan;747
+23;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AF8;Almasha;33°30?47?N;64°25?47?E;Afghanistan;287
+139;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AF8;Almasha;33°30?47?N;64°25?47?E;Afghanistan;42
+332;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;AF8;Almasha;33°30?47?N;64°25?47?E;Afghanistan;10
+24;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AFB;Angut;36°11?04?N;66°01?05?E;Afghanistan;7877
+333;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;AFB;Angut;36°11?04?N;66°01?05?E;Afghanistan;286
+25;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AFE;Badam Kala;33°58?44?N;68°33?33?E;Afghanistan;437
+26;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AFH;Badgah;34°59?10?N;64°58?20?E;Afghanistan;622
+140;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AFH;Badgah;34°59?10?N;64°58?20?E;Afghanistan;278
+334;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;AFH;Badgah;34°59?10?N;64°58?20?E;Afghanistan;45
+27;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AFK;Bakur Khel;33°44?51?N;68°32?35?E;Afghanistan;1647
+141;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AFK;Bakur Khel;33°44?51?N;68°32?35?E;Afghanistan;168
+335;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;AFK;Bakur Khel;33°44?51?N;68°32?35?E;Afghanistan;151
+28;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AFN;Bano Kelay;31°55?46?N;64°49?28?E;Afghanistan;17468
+142;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AFN;Bano Kelay;31°55?46?N;64°49?28?E;Afghanistan;963
+336;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;AFN;Bano Kelay;31°55?46?N;64°49?28?E;Afghanistan;276
+29;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AFT;Bardiz;33°44?54?N;67°00?21?E;Afghanistan;4475
+143;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AFT;Bardiz;33°44?54?N;67°00?21?E;Afghanistan;267
+337;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;AFT;Bardiz;33°44?54?N;67°00?21?E;Afghanistan;6
+4;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;AT1;Adelsdorf;46°41?00?N;15°21?00?E;Austria;204
+16;      ATF001;Burgenland;47°49?00?N;17°01?00?E;Austria;AT1;Adelsdorf;46°41?00?N;15°21?00?E;Austria;5
+30;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AT1;Adelsdorf;46°41?00?N;15°21?00?E;Austria;1412
+113;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;AT1;Adelsdorf;46°41?00?N;15°21?00?E;Austria;4
+144;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AT1;Adelsdorf;46°41?00?N;15°21?00?E;Austria;11
+240;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;AT1;Adelsdorf;46°41?00?N;15°21?00?E;Austria;2
+5;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;AT2;Aich;46°51?00?N;14°13?00?E;Austria;247
+31;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AT2;Aich;46°51?00?N;14°13?00?E;Austria;24
+145;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;AT2;Aich;46°51?00?N;14°13?00?E;Austria;35
+32;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AT4;Alkersdorf;47°53?13?N;16°05?48?E;Austria;5
+241;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;AT4;Alkersdorf;47°53?13?N;16°05?48?E;Austria;36
+6;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;AT5;Amstall;48°23?00?N;15°19?00?E;Austria;398
+33;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AT5;Amstall;48°23?00?N;15°19?00?E;Austria;3
+17;      ATF001;Burgenland;47°49?00?N;17°01?00?E;Austria;AT7;Aschenbach;47°01?00?N;15°32?00?E;Austria;6
+257;      FRD003;Lorena;48°31?50?N;05°29?40?E;Francia;AT7;Aschenbach;47°01?00?N;15°32?00?E;Austria;4
+7;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;AT8;Ausserbraz;47°09?00?N;09°53?00?E;Austria;220
+34;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AT8;Ausserbraz;47°09?00?N;09°53?00?E;Austria;11
+8;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;ATR;Bad Kreuzen;48°16?03?N;14°48?23?E;Austria;1239
+18;      ATF001;Burgenland;47°49?00?N;17°01?00?E;Austria;ATR;Bad Kreuzen;48°16?03?N;14°48?23?E;Austria;1
+35;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;ATR;Bad Kreuzen;48°16?03?N;14°48?23?E;Austria;4124
+114;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;ATR;Bad Kreuzen;48°16?03?N;14°48?23?E;Austria;2
+36;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;AX1;Geta;60°10'42.7'' N;19°54'56.2'' E;Åland Islands;34
+174;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;AX1;Geta;60°10'42.7'' N;19°54'56.2'' E;Åland Islands;13
+37;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;BE1;Attenhoven;50°45?57?N;05°05?35?E;Belgica;2159
+115;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;BE1;Attenhoven;50°45?57?N;05°05?35?E;Belgica;9
+146;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;BE1;Attenhoven;50°45?57?N;05°05?35?E;Belgica;100
+175;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;BE1;Attenhoven;50°45?57?N;05°05?35?E;Belgica;9
+200;      BEF001;Brabante Flamenco;50°46?14?N;04°51?56?E;Belgica;BE1;Attenhoven;50°45?57?N;05°05?35?E;Belgica;3
+202;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;BE1;Attenhoven;50°45?57?N;05°05?35?E;Belgica;1
+38;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;BE4;Basbeek;51°03?29?N;03°39?40?E;Belgica;8703
+116;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;BE4;Basbeek;51°03?29?N;03°39?40?E;Belgica;15
+147;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;BE4;Basbeek;51°03?29?N;03°39?40?E;Belgica;94
+176;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;BE4;Basbeek;51°03?29?N;03°39?40?E;Belgica;191
+201;      BEF001;Brabante Flamenco;50°46?14?N;04°51?56?E;Belgica;BE4;Basbeek;51°03?29?N;03°39?40?E;Belgica;8
+203;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;BE4;Basbeek;51°03?29?N;03°39?40?E;Belgica;5
+242;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;BE4;Basbeek;51°03?29?N;03°39?40?E;Belgica;1
+263;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;BE4;Basbeek;51°03?29?N;03°39?40?E;Belgica;3
+177;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;BE7;Basse Flandre;50°47?00?N;03°05?00?E;Belgica;784
+39;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;BE8;Bergstraat;50°50?00?N;03°28?00?E;Belgica;5
+117;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;BE8;Bergstraat;50°50?00?N;03°28?00?E;Belgica;52
+148;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;BE8;Bergstraat;50°50?00?N;03°28?00?E;Belgica;111
+178;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;BE8;Bergstraat;50°50?00?N;03°28?00?E;Belgica;67
+40;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;BE9;Bonneville;50°28?22?N;05°02?19?E;Belgica;3303
+179;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;BE9;Bonneville;50°28?22?N;05°02?19?E;Belgica;15495
+217;      CHD001;Praga;50°02?16?N;14°23?31?E;Republica Checa;CH3;Am Rain;47°11?05?N;08°38?14?E;Switzerland;3
+41;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;CH4;Bassecourt;47°20?18?N;07°14?42?E;Switzerland;245
+218;      CHD001;Praga;50°02?16?N;14°23?31?E;Republica Checa;CH4;Bassecourt;47°20?18?N;07°14?42?E;Switzerland;187
+223;      CHF001;Olomuc;50°11?46?N;17°01?23?E;Republica Checa;CH4;Bassecourt;47°20?18?N;07°14?42?E;Switzerland;2
+219;      CHD001;Praga;50°02?16?N;14°23?31?E;Republica Checa;CH6;Basel;47°33?30?N;07°34?24?E;Switzerland;3
+42;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;CH8;Berghus;47°30?29?N;08°33?07?E;Switzerland;557
+149;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;CH8;Berghus;47°30?29?N;08°33?07?E;Switzerland;1
+220;      CHD001;Praga;50°02?16?N;14°23?31?E;Republica Checa;CH8;Berghus;47°30?29?N;08°33?07?E;Switzerland;130
+43;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;CHB;Breite;47°27?37?N;08°39?46?E;Switzerland;1218
+118;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;CHB;Breite;47°27?37?N;08°39?46?E;Switzerland;1
+221;      CHD001;Praga;50°02?16?N;14°23?31?E;Republica Checa;CHB;Breite;47°27?37?N;08°39?46?E;Switzerland;863
+44;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;CHE;Coglio;46°16?14?N;08°41?06?E;Switzerland;5975
+119;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;CHE;Coglio;46°16?14?N;08°41?06?E;Switzerland;42
+150;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;CHE;Coglio;46°16?14?N;08°41?06?E;Switzerland;4
+222;      CHD001;Praga;50°02?16?N;14°23?31?E;Republica Checa;CHE;Coglio;46°16?14?N;08°41?06?E;Switzerland;3367
+224;      CHF001;Olomuc;50°11?46?N;17°01?23?E;Republica Checa;CHE;Coglio;46°16?14?N;08°41?06?E;Switzerland;3
+9;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;CZ1;Belec nad Orlici;50°11?53?N;15°56?34?E;Republica Checa;57
+45;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;CZ1;Belec nad Orlici;50°11?53?N;15°56?34?E;Republica Checa;125
+46;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;CZ4;Belice;49°45?58?N;14°28?18?E;Republica Checa;1
+10;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;CZR;Borova;49°57?31?N;18°06?18?E;Republica Checa;174
+47;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;CZR;Borova;49°57?31?N;18°06?18?E;Republica Checa;3153
+120;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;CZR;Borova;49°57?31?N;18°06?18?E;Republica Checa;9
+151;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;CZR;Borova;49°57?31?N;18°06?18?E;Republica Checa;287
+204;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;CZR;Borova;49°57?31?N;18°06?18?E;Republica Checa;8
+309;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;CZR;Borova;49°57?31?N;18°06?18?E;Republica Checa;13
+48;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DE1;Allensbach;47°42?55?N;09°04?17?E;Alemania;58782
+121;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;DE1;Allensbach;47°42?55?N;09°04?17?E;Alemania;173
+205;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;DE1;Allensbach;47°42?55?N;09°04?17?E;Alemania;139
+225;      DEF001;Berlin;52°26?08?N;13°32?54?E;Alemania;DE1;Allensbach;47°42?55?N;09°04?17?E;Alemania;34
+243;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;DE1;Allensbach;47°42?55?N;09°04?17?E;Alemania;234
+264;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;DE1;Allensbach;47°42?55?N;09°04?17?E;Alemania;1
+49;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DE2;Am Roten Berg;50°07?00?N;08°20?00?E;Alemania;144
+50;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DE4;Anhausen;49°06?00?N;09°52?00?E;Alemania;5593
+51;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DE6;Bad Bevensen;53°05?00?N;10°35?00?E;Alemania;1502
+122;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;DE6;Bad Bevensen;53°05?00?N;10°35?00?E;Alemania;3
+244;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;DE6;Bad Bevensen;53°05?00?N;10°35?00?E;Alemania;54
+265;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;DE6;Bad Bevensen;53°05?00?N;10°35?00?E;Alemania;1
+52;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DE9;Bahramuhle;50°52?00?N;13°59?00?E;Alemania;1
+53;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DEL;Emstadt;50°22?00?N;10°59?00?E;Alemania;111
+54;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DEN;Furstenhagen;51°19?00?N;10°06?00?E;Alemania;1
+55;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DER;Geilsdorf;50°44?00?N;11°05?00?E;Alemania;10861
+206;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;DER;Geilsdorf;50°44?00?N;11°05?00?E;Alemania;1
+338;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;DK?;Jonstrup;56°00?38?N;12°25?43?E;Dinamarca;3724
+56;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DK1;Boderne;55°01?25?N;14°54?23?E;Dinamarca;1612
+123;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;DK1;Boderne;55°01?25?N;14°54?23?E;Dinamarca;2
+152;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;DK1;Boderne;55°01?25?N;14°54?23?E;Dinamarca;151
+180;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;DK1;Boderne;55°01?25?N;14°54?23?E;Dinamarca;23
+245;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;DK1;Boderne;55°01?25?N;14°54?23?E;Dinamarca;8
+339;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;DK1;Boderne;55°01?25?N;14°54?23?E;Dinamarca;5
+57;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DK2;Klinteby;55°04?43?N;15°06?01?E;Dinamarca;13
+153;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;DK2;Klinteby;55°04?43?N;15°06?01?E;Dinamarca;1
+58;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;DK4;Tulstrup;56°04?21?N;12°15?16?E;Dinamarca;4626
+124;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;DK4;Tulstrup;56°04?21?N;12°15?16?E;Dinamarca;4
+154;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;DK4;Tulstrup;56°04?21?N;12°15?16?E;Dinamarca;1
+181;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;DK4;Tulstrup;56°04?21?N;12°15?16?E;Dinamarca;16
+207;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;DK4;Tulstrup;56°04?21?N;12°15?16?E;Dinamarca;2
+340;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;DK4;Tulstrup;56°04?21?N;12°15?16?E;Dinamarca;46
+59;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;EE1;Aleksandri;58°27?00?N;25°27?00?E;Estonia;475
+246;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;EE1;Aleksandri;58°27?00?N;25°27?00?E;Estonia;3
+310;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;EE1;Aleksandri;58°27?00?N;25°27?00?E;Estonia;585
+60;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;F11;Flavion;50°14?58?N;04°43?01?E;Belgica;487
+155;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;F11;Flavion;50°14?58?N;04°43?01?E;Belgica;7
+182;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;F11;Flavion;50°14?58?N;04°43?01?E;Belgica;601
+61;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;F12;Jamagne;50°13?04?N;04°31?49?E;Belgica;211
+62;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;F13;Les Trieux;50°02?03?N;04°26?59?E;Belgica;98
+63;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FI1;Hiukkamaki;60°59?00?N;23°48?00?E;Finlandia;1070
+156;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;FI1;Hiukkamaki;60°59?00?N;23°48?00?E;Finlandia;40
+183;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;FI1;Hiukkamaki;60°59?00?N;23°48?00?E;Finlandia;443
+239;      FIV001;Helsinki;60°23?00?N;22°39?00?E;Finlandia;FI1;Hiukkamaki;60°59?00?N;23°48?00?E;Finlandia;13
+247;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;FI1;Hiukkamaki;60°59?00?N;23°48?00?E;Finlandia;7
+64;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FI4;Kinola;61°01?00?N;23°18?00?E;Finlandia;3914
+125;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;FI4;Kinola;61°01?00?N;23°18?00?E;Finlandia;12
+157;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;FI4;Kinola;61°01?00?N;23°18?00?E;Finlandia;2
+184;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;FI4;Kinola;61°01?00?N;23°18?00?E;Finlandia;3923
+208;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;FI4;Kinola;61°01?00?N;23°18?00?E;Finlandia;1
+322;      SEF001;Belgrado;45°48?09?N;20°07?33?E;Serbia;FI4;Kinola;61°01?00?N;23°18?00?E;Finlandia;88
+65;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FIA;Maisaari;60°20?00?N;21°54?00?E;Finlandia;1
+66;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FR1;Brevilliers;47°34?56?N;06°47?23?E;Francia;1047
+158;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;FR1;Brevilliers;47°34?56?N;06°47?23?E;Francia;1
+67;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FR2;Brotte-les-Ray;47°36?19?N;05°44?12?E;Francia;1082
+185;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;FR2;Brotte-les-Ray;47°36?19?N;05°44?12?E;Francia;4351
+68;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FR3;Courmont;47°36?43?N;06°37?44?E;Francia;1180
+186;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;FR3;Courmont;47°36?43?N;06°37?44?E;Francia;1415
+258;      FRD003;Lorena;48°31?50?N;05°29?40?E;Francia;FR3;Courmont;47°36?43?N;06°37?44?E;Francia;4
+69;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FR4;Allex;44°45?52?N;04°55?03?E;Francia;27338
+126;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;FR4;Allex;44°45?52?N;04°55?03?E;Francia;70
+159;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;FR4;Allex;44°45?52?N;04°55?03?E;Francia;66
+187;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;FR4;Allex;44°45?52?N;04°55?03?E;Francia;23111
+209;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;FR4;Allex;44°45?52?N;04°55?03?E;Francia;4
+248;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;FR4;Allex;44°45?52?N;04°55?03?E;Francia;455
+259;      FRD003;Lorena;48°31?50?N;05°29?40?E;Francia;FR4;Allex;44°45?52?N;04°55?03?E;Francia;24
+261;      FRF001;Lemosin;45°37?00?N;02°23?00?E;Francia;FR4;Allex;44°45?52?N;04°55?03?E;Francia;41
+266;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;FR4;Allex;44°45?52?N;04°55?03?E;Francia;18
+70;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FR5;Alix;45°54?49?N;04°39?14?E;Francia;103
+71;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FR6;Bassy;45°59?04?N;05°49?45?E;Francia;2
+72;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FR7;Charnas;45°20?13?N;04°44?38?E;Francia;16
+188;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;FR7;Charnas;45°20?13?N;04°44?38?E;Francia;18
+73;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FR8;Beinheim;48°51?48?N;08°05?04?E;Francia;484
+189;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;FR8;Beinheim;48°51?48?N;08°05?04?E;Francia;128
+267;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;FR8;Beinheim;48°51?48?N;08°05?04?E;Francia;2
+74;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FRB;Graufthal;48°49?09?N;07°16?52?E;Francia;131
+190;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;FRB;Graufthal;48°49?09?N;07°16?52?E;Francia;803
+75;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;FRD;Laubenheim;48°29?40?N;07°23?08?E;Francia;457
+191;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;FRD;Laubenheim;48°29?40?N;07°23?08?E;Francia;2689
+260;      FRD003;Lorena;48°31?50?N;05°29?40?E;Francia;FRD;Laubenheim;48°29?40?N;07°23?08?E;Francia;9
+11;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;HU1;Balazshalom;47°38?00?N;20°12?00?E;Hungría;1812
+76;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;HU1;Balazshalom;47°38?00?N;20°12?00?E;Hungría;2
+77;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;HU4;Alsoerdo;47°15?00?N;17°28?00?E;Hungría;13
+78;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IB0;Eume;43°24?00?N;08°00?00?W;España;27
+227;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;IB0;Eume;43°24?00?N;08°00?00?W;España;1873
+236;      ESF001;Barcelona;41°32?00?N;02°24?00?E;España;IB0;Eume;43°24?00?N;08°00?00?W;España;3
+79;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IB1;Berbedel;41°34?00?N;01°18?00?W;España;6
+228;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;IB1;Berbedel;41°34?00?N;01°18?00?W;España;640
+229;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;IB2;Castañuelo;37°56?00?N;06°34?00?W;España;558
+80;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IB3;Bourio;43°31?00?N;06°56?00?W;España;6
+230;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;IB3;Bourio;43°31?00?N;06°56?00?W;España;59
+81;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IB4;Villamuelas;39°48?00?N;03°43?00?W;España;38
+127;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;IB4;Villamuelas;39°48?00?N;03°43?00?W;España;2
+231;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;IB4;Villamuelas;39°48?00?N;03°43?00?W;España;2179
+82;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IB5;Maceiras;42°49?00?N;09°07?00?W;España;3104
+128;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;IB5;Maceiras;42°49?00?N;09°07?00?W;España;27
+232;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;IB5;Maceiras;42°49?00?N;09°07?00?W;España;43148
+237;      ESF001;Barcelona;41°32?00?N;02°24?00?E;España;IB5;Maceiras;42°49?00?N;09°07?00?W;España;11
+238;      ESV001;Cadiz;36°41?00?N;06°05?00?W;España;IB5;Maceiras;42°49?00?N;09°07?00?W;España;18
+320;      PTF001;Madeira;32°43?00?N;17°09?00?W;Portugal;IB5;Maceiras;42°49?00?N;09°07?00?W;España;73
+233;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;IB6;Yuncos;40°05?00?N;03°52?00?W;España;11
+234;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;IBR;Lillo;39°43?00?N;03°18?00?W;España;232
+83;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IBX;Mora;39°41?00?N;03°46?00?W;España;136
+235;      ESD001;Madrid;40°38?00?N;03°28?00?W;España;IBX;Mora;39°41?00?N;03°46?00?W;España;676
+84;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IE1;Cookstown;53°17?50?N;06°22?40?W;Ireland;530
+210;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;IE1;Cookstown;53°17?50?N;06°22?40?W;Ireland;1
+249;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;IE1;Cookstown;53°17?50?N;06°22?40?W;Ireland;8
+268;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;IE1;Cookstown;53°17?50?N;06°22?40?W;Ireland;3
+341;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;IE1;Cookstown;53°17?50?N;06°22?40?W;Ireland;4371
+360;      UKD002;Escocia;55°51?00?N;02°23?00?W;Reino Unido;IE1;Cookstown;53°17?50?N;06°22?40?W;Ireland;1
+85;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IE2;Newcastle;53°18?04?N;06°30?08?W;Ireland;2677
+86;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IE4;Rathcoole;53°16?58?N;06°28?22?W;Ireland;1
+269;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;IT1;Arsella;43°56?11?N;11°28?36?E;Italia;672
+290;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;IT1;Arsella;43°56?11?N;11°28?36?E;Italia;2857
+270;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;IT2;Scisciano;40°54?58?N;14°29?09?E;Italia;1073
+291;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;IT2;Scisciano;40°54?58?N;14°29?09?E;Italia;128
+87;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;IT3;Battipiedi;40°03?00?N;16°11?00?E;Italia;29
+211;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;IT3;Battipiedi;40°03?00?N;16°11?00?E;Italia;37
+250;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;IT3;Battipiedi;40°03?00?N;16°11?00?E;Italia;223
+271;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;IT3;Battipiedi;40°03?00?N;16°11?00?E;Italia;19017
+287;      ITD002;Salerno;40°38?06?N;14°36?09?E;Italia;IT3;Battipiedi;40°03?00?N;16°11?00?E;Italia;38
+292;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;IT3;Battipiedi;40°03?00?N;16°11?00?E;Italia;20958
+303;      ITF001;Milán;45°27?33?N;09°05?30?E;Italia;IT3;Battipiedi;40°03?00?N;16°11?00?E;Italia;188
+304;      ITF004;Milán;45°27?33?N;09°05?30?E;Italia;IT3;Battipiedi;40°03?00?N;16°11?00?E;Italia;2
+272;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;IT4;Pennabilli;43°49?05?N;12°15?56?E;Italia;225
+293;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;IT4;Pennabilli;43°49?05?N;12°15?56?E;Italia;4014
+273;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;IT6;Camerata Nuova;42°01?07?N;13°06?28?E;Italia;7
+274;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;IT7;Olgiata;42°02?00?N;12°22?00?E;Italia;9
+251;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;IT8;Filaga;37°41?00?N;13°28?00?E;Italia;6
+275;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;IT8;Filaga;37°41?00?N;13°28?00?E;Italia;204
+294;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;IT8;Filaga;37°41?00?N;13°28?00?E;Italia;54
+212;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;IT9;Villa Bonini;44°38?00?N;10°26?00?E;Italia;5
+276;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;IT9;Villa Bonini;44°38?00?N;10°26?00?E;Italia;1516
+295;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;IT9;Villa Bonini;44°38?00?N;10°26?00?E;Italia;548
+277;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;ITB;Tagliata;44°56?00?N;10°42?00?E;Italia;152
+296;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;ITB;Tagliata;44°56?00?N;10°42?00?E;Italia;380
+305;      ITF004;Milán;45°27?33?N;09°05?30?E;Italia;ITB;Tagliata;44°56?00?N;10°42?00?E;Italia;3
+278;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;ITC;Mercato San Severino;40°46?52?N;14°45?25?E;Italia;213
+297;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;ITC;Mercato San Severino;40°46?52?N;14°45?25?E;Italia;234
+279;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;ITD;Fisciano;40°46?22?N;14°47?58?E;Italia;473
+298;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;ITD;Fisciano;40°46?22?N;14°47?58?E;Italia;48
+280;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;ITE;San Severino;40°05?00?N;15°21?00?E;Italia;448
+299;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;ITE;San Severino;40°05?00?N;15°21?00?E;Italia;188
+281;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;ITG;Castelletto;45°24?01?N;08°56?10?E;Italia;251
+300;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;ITG;Castelletto;45°24?01?N;08°56?10?E;Italia;21
+282;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;ITH;San Vito;45°25?00?N;09°00?00?E;Italia;14
+288;      ITD002;Salerno;40°38?06?N;14°36?09?E;Italia;ITH;San Vito;45°25?00?N;09°00?00?E;Italia;1
+283;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;ITI;Sesto San Giovanni;45°32?04?N;09°14?02?E;Italia;4
+284;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;ITK;Recoleta;40°15?00?N;16°39?00?E;Italia;18
+301;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;ITK;Recoleta;40°15?00?N;16°39?00?E;Italia;247
+213;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;ITM;Villaggio Timmari;40°39?15?N;16°28?06?E;Italia;1
+302;      ITD004;Torino;45°02?21?N;07°53?53?E;Italia;ITM;Villaggio Timmari;40°39?15?N;16°28?06?E;Italia;105
+88;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;LT1;Belvederis;55°05?00?N;23°23?00?E;Lithuania;339
+129;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;LT1;Belvederis;55°05?00?N;23°23?00?E;Lithuania;33
+160;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;LT1;Belvederis;55°05?00?N;23°23?00?E;Lithuania;14
+252;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;LT1;Belvederis;55°05?00?N;23°23?00?E;Lithuania;1
+311;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;LT1;Belvederis;55°05?00?N;23°23?00?E;Lithuania;253
+89;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;LV1;Jostnieki;56°28?00?N;22°27?00?E;Letonia;630
+130;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;LV1;Jostnieki;56°28?00?N;22°27?00?E;Letonia;42
+253;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;LV1;Jostnieki;56°28?00?N;22°27?00?E;Letonia;9
+312;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;LV1;Jostnieki;56°28?00?N;22°27?00?E;Letonia;509
+1;      AED003;Al Bada;25°13?07?N;55°15?51?E;Emiratos Arabes;M11;Al Goze Industrial District;25°07?44?N;55°13?58?E;Emiratos Arabes;71
+2;      AEV002;Abu Dhabi;24°28?00?N;54°22?00?E;Emiratos Arabes;M11;Al Goze Industrial District;25°07?44?N;55°13?58?E;Emiratos Arabes;105
+3;      AEV003;Al Bustan;25°24?37?N;55°26?45?E;Emiratos Arabes;M11;Al Goze Industrial District;25°07?44?N;55°13?58?E;Emiratos Arabes;638
+90;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;M11;Al Goze Industrial District;25°07?44?N;55°13?58?E;Emiratos Arabes;8109
+161;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;M11;Al Goze Industrial District;25°07?44?N;55°13?58?E;Emiratos Arabes;472
+285;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;M11;Al Goze Industrial District;25°07?44?N;55°13?58?E;Emiratos Arabes;1
+321;      SAV001;Tabuk;27°09?00?N;35°47?00?E;Arabia Saudita;M11;Al Goze Industrial District;25°07?44?N;55°13?58?E;Emiratos Arabes;4121
+342;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;M11;Al Goze Industrial District;25°07?44?N;55°13?58?E;Emiratos Arabes;67
+91;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;NL1;Geulle;50°55?18?N;05°45?00?E;Países Bajos;926
+192;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;NL1;Geulle;50°55?18?N;05°45?00?E;Países Bajos;911
+306;      NLF001;Bonaire;12°11?57?N;68°18?15?W;Países Bajos;NL1;Geulle;50°55?18?N;05°45?00?E;Países Bajos;1
+307;      NLV001;Limburg;51°21?03?N;06°01?45?E;Países Bajos;NL1;Geulle;50°55?18?N;05°45?00?E;Países Bajos;7
+92;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;NL4;Klein Hanssum;51°15?18?N;06°00?00?E;Países Bajos;11690
+131;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;NL4;Klein Hanssum;51°15?18?N;06°00?00?E;Países Bajos;2
+193;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;NL4;Klein Hanssum;51°15?18?N;06°00?00?E;Países Bajos;14353
+308;      NLV001;Limburg;51°21?03?N;06°01?45?E;Países Bajos;NL4;Klein Hanssum;51°15?18?N;06°00?00?E;Países Bajos;33
+93;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;NL6;Amstelveen;52°18?03?N;04°51?50?E;Países Bajos;224
+194;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;NL6;Amstelveen;52°18?03?N;04°51?50?E;Países Bajos;62
+94;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;NL8;Julianadorp;52°53?24?N;04°44?25?E;Países Bajos;92
+195;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;NL8;Julianadorp;52°53?24?N;04°44?25?E;Países Bajos;211
+343;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;NO?;Adamstua;59°55?57?N;10°44?04?E; Norway;3938
+95;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;NO1;Okern;59°56?00?N;10°48?00?E; Norway;2919
+162;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;NO1;Okern;59°56?00?N;10°48?00?E; Norway;154
+196;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;NO1;Okern;59°56?00?N;10°48?00?E; Norway;19
+214;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;NO1;Okern;59°56?00?N;10°48?00?E; Norway;1
+254;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;NO1;Okern;59°56?00?N;10°48?00?E; Norway;6
+344;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;NO1;Okern;59°56?00?N;10°48?00?E; Norway;45
+96;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;NO4;Rodelokka;59°55?31?N;10°46?14?E; Norway;19
+163;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;NO4;Rodelokka;59°55?31?N;10°46?14?E; Norway;1
+197;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;NO4;Rodelokka;59°55?31?N;10°46?14?E; Norway;1
+97;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;OV3;Failolo;14°20?01?S;170°49?33?W;American Samoa;2
+172;      BED004;Amberes;51°03?23?N;04°15?53?E;Belgica;OV3;Failolo;14°20?01?S;170°49?33?W;American Samoa;93
+98;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;OV4;Tuaolo;14°19?10?S;170°45?33?W;American Samoa;2
+173;      BED004;Amberes;51°03?23?N;04°15?53?E;Belgica;OV4;Tuaolo;14°19?10?S;170°45?33?W;American Samoa;38
+99;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;PL1;Stacze;54°09?00?N;22°18?00?E;Poland;354
+132;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;PL1;Stacze;54°09?00?N;22°18?00?E;Poland;47
+164;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;PL1;Stacze;54°09?00?N;22°18?00?E;Poland;25
+313;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;PL1;Stacze;54°09?00?N;22°18?00?E;Poland;1123
+314;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;PL2;Warchaly;53°33?00?N;20°49?00?E;Poland;34
+315;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;PL4;Zyndaki;53°55?00?N;21°11?00?E;Poland;4
+316;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;PL5;Babie Doly;54°34?24?N;18°32?41?E;Poland;79
+100;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;PLR;Gladkie;49°47?00?N;19°19?00?E;Poland;4798
+133;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;PLR;Gladkie;49°47?00?N;19°19?00?E;Poland;22
+165;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;PLR;Gladkie;49°47?00?N;19°19?00?E;Poland;114
+317;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;PLR;Gladkie;49°47?00?N;19°19?00?E;Poland;4629
+101;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;SC1;L'Esperance;04°43?00?S;55°29?00?E;Seychelles;466
+166;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;SC1;L'Esperance;04°43?00?S;55°29?00?E;Seychelles;2
+345;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;SC1;L'Esperance;04°43?00?S;55°29?00?E;Seychelles;1
+346;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;SE?;Angarna;60°07?00?N;18°32?00?E;Suecia;6689
+102;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;SE1;Edebo;60°01?00?N;18°34?00?E;Suecia;6798
+167;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;SE1;Edebo;60°01?00?N;18°34?00?E;Suecia;270
+198;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;SE1;Edebo;60°01?00?N;18°34?00?E;Suecia;26
+215;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;SE1;Edebo;60°01?00?N;18°34?00?E;Suecia;19
+347;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;SE1;Edebo;60°01?00?N;18°34?00?E;Suecia;33
+103;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;SE2;Hensvik;60°08?00?N;18°37?00?E;Suecia;293
+104;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;SE4;Gusselby;59°39?00?N;15°13?00?E;Suecia;541
+199;      BED005;Namur;50°31?37?N;04°45?16?E;Belgica;SE4;Gusselby;59°39?00?N;15°13?00?E;Suecia;4
+348;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;SE4;Gusselby;59°39?00?N;15°13?00?E;Suecia;4
+12;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;SK1;Certov;49°16?32?N;18°13?03?E;Slovakia;120
+105;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;SK1;Certov;49°16?32?N;18°13?03?E;Slovakia;285
+168;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;SK1;Certov;49°16?32?N;18°13?03?E;Slovakia;5
+13;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;SKR;Inovce;48°49?23?N;22°21?32?E;Slovakia;565
+106;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;SKR;Inovce;48°49?23?N;22°21?32?E;Slovakia;851
+169;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;SKR;Inovce;48°49?23?N;22°21?32?E;Slovakia;134
+318;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;SKR;Inovce;48°49?23?N;22°21?32?E;Slovakia;36
+323;      TRD001;Estambul ;41°00?17?N;29°02?41?E;Turquia;TR1;Hisar;39°56?00?N;36°53?00?E;Turkey;1173
+324;      TRD004;Yalova;40°41?42?N;29°30?35?E;Turquia;TR1;Hisar;39°56?00?N;36°53?00?E;Turkey;3456
+325;      TRD005;Usak;38°15?32?N;28°54?26?E;Turquia;TR1;Hisar;39°56?00?N;36°53?00?E;Turkey;679
+326;      TRD006;Agri;39°43?32?N;42°33?21?E;Turquia;TR1;Hisar;39°56?00?N;36°53?00?E;Turkey;90
+327;      TRF001;Konya;38°12?09?N;32°32?45?E;Turquia;TR1;Hisar;39°56?00?N;36°53?00?E;Turkey;1
+107;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;UK1;Barnsbury;51°32?26?N;00°07?00?W;Reino Unido;4313
+255;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;UK1;Barnsbury;51°32?26?N;00°07?00?W;Reino Unido;18
+286;      ITD001;Roma;41°50?01?N;12°45?11?E;Italia;UK1;Barnsbury;51°32?26?N;00°07?00?W;Reino Unido;6
+349;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UK1;Barnsbury;51°32?26?N;00°07?00?W;Reino Unido;101915
+361;      UKD002;Escocia;55°51?00?N;02°23?00?W;Reino Unido;UK1;Barnsbury;51°32?26?N;00°07?00?W;Reino Unido;56
+362;      UKF001;Gales;53°14?00?N;04°01?00?W;Reino Unido;UK1;Barnsbury;51°32?26?N;00°07?00?W;Reino Unido;281
+364;      UKV001;Irlanda;54°18?00?N;06°22?00?W;Reino Unido;UK1;Barnsbury;51°32?26?N;00°07?00?W;Reino Unido;377
+108;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;UK2;Chadshunt;52°10?22?N;01°29?36?W;Reino Unido;10
+350;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UK2;Chadshunt;52°10?22?N;01°29?36?W;Reino Unido;1388
+365;      UKV001;Irlanda;54°18?00?N;06°22?00?W;Reino Unido;UK2;Chadshunt;52°10?22?N;01°29?36?W;Reino Unido;3
+351;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UK3;Distington;54°35?50?N;03°32?20?W;Reino Unido;150
+109;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;UK4;Hengoed;51°39?03?N;03°13?54?W;Reino Unido;34
+256;      FRD001;Paris;49°09?40?N;01°20?25?E;Francia;UK4;Hengoed;51°39?03?N;03°13?54?W;Reino Unido;116
+352;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UK4;Hengoed;51°39?03?N;03°13?54?W;Reino Unido;192
+363;      UKF001;Gales;53°14?00?N;04°01?00?W;Reino Unido;UK4;Hengoed;51°39?03?N;03°13?54?W;Reino Unido;2
+353;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UK7;Newborough;53°10?00?N;04°22?00?W;Reino Unido;17
+354;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UK8;Newport;51°35?16?N;02°59?54?W;Reino Unido;351
+355;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UKB;Bayble;58°12?00?N;06°13?00?W;Reino Unido;1526
+356;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UKC;Carnach;57°18?00?N;05°16?00?W;Reino Unido;129
+110;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;UKI;Drumbo;54°30?54?N;05°57?19?W;Reino Unido;14
+357;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UKI;Drumbo;54°30?54?N;05°57?19?W;Reino Unido;1018
+111;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;UKJ;Drumbo;54°30?54?N;05°57?19?W;Reino Unido;1
+358;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UKJ;Drumbo;54°30?54?N;05°57?19?W;Reino Unido;260
+359;      UKD001;Manchester;53°28?51?N;02°14?15?W;Reino Unido;UT1;Atheaton;39°11?00?N;23°37?00?E;Grecia;5
+14;      ATD001;Viena;48°10?00?N;16°29?00?E;Austria;XS0;Dolge Njive;46°31?49?N;15°48?47?E;Slovenia;23
+112;      BED001;Flandes ;50°13?17?N;05°30?21?E;Belgica;XS0;Dolge Njive;46°31?49?N;15°48?47?E;Slovenia;7385
+134;      BED002;Limburgo;51°03?13?N;05°38?24?E;Belgica;XS0;Dolge Njive;46°31?49?N;15°48?47?E;Slovenia;214
+170;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;XS0;Dolge Njive;46°31?49?N;15°48?47?E;Slovenia;439
+216;      BEK001;Valonia;50°53?35?N;02°59?07?E;Belgica;XS0;Dolge Njive;46°31?49?N;15°48?47?E;Slovenia;11
+319;      PLD001;Lisboa;38°47?26?N;09°13?42?W;Portugal;XS0;Dolge Njive;46°31?49?N;15°48?47?E;Slovenia;204
+171;      BED003;Bruselas;50°51?02?N;04°20?56?E;Belgica;ZA1;Ga-Dikgale;23°23?55?S;29°00?59?E;South Africa;57
+367;      ZAD001;Cabo occidental;33°41?54?S;19°29?26?E;South Africa;ZA1;Ga-Dikgale;23°23?55?S;29°00?59?E;South Africa;573
+373;      ZAD002;Cabo oriental;31°42?44?S;25°37?52?E;South Africa;ZA1;Ga-Dikgale;23°23?55?S;29°00?59?E;South Africa;38
+379;      ZAD005;Mpumalanga;26°17?27?S;29°16?32?E;South Africa;ZA1;Ga-Dikgale;23°23?55?S;29°00?59?E;South Africa;3945
+384;      ZAD006;Noroeste;25°29?00?S;26°10?00?E;South Africa;ZA1;Ga-Dikgale;23°23?55?S;29°00?59?E;South Africa;267
+389;      ZAD007;Limpopo;23°27?05?S;28°05?28?E;South Africa;ZA1;Ga-Dikgale;23°23?55?S;29°00?59?E;South Africa;53
+393;      ZAD008;KwaZulu-Natal;28°40?00?S;32°02?00?E;South Africa;ZA1;Ga-Dikgale;23°23?55?S;29°00?59?E;South Africa;217
+397;      ZAD009;Gauten;25°39?22?S;28°05?34?E;South Africa;ZA1;Ga-Dikgale;23°23?55?S;29°00?59?E;South Africa;18
+368;      ZAD001;Cabo occidental;33°41?54?S;19°29?26?E;South Africa;ZA2;Deal Party;33°53?43?S;25°36?57?E;South Africa;5
+374;      ZAD002;Cabo oriental;31°42?44?S;25°37?52?E;South Africa;ZA2;Deal Party;33°53?43?S;25°36?57?E;South Africa;54
+380;      ZAD005;Mpumalanga;26°17?27?S;29°16?32?E;South Africa;ZA2;Deal Party;33°53?43?S;25°36?57?E;South Africa;1135
+385;      ZAD006;Noroeste;25°29?00?S;26°10?00?E;South Africa;ZA2;Deal Party;33°53?43?S;25°36?57?E;South Africa;45
+390;      ZAD007;Limpopo;23°27?05?S;28°05?28?E;South Africa;ZA2;Deal Party;33°53?43?S;25°36?57?E;South Africa;9
+394;      ZAD008;KwaZulu-Natal;28°40?00?S;32°02?00?E;South Africa;ZA2;Deal Party;33°53?43?S;25°36?57?E;South Africa;1
+398;      ZAD009;Gauten;25°39?22?S;28°05?34?E;South Africa;ZA2;Deal Party;33°53?43?S;25°36?57?E;South Africa;44
+369;      ZAD001;Cabo occidental;33°41?54?S;19°29?26?E;South Africa;ZA3;Bethanie;25°33?17?S;27°36?33?E;South Africa;4
+375;      ZAD002;Cabo oriental;31°42?44?S;25°37?52?E;South Africa;ZA3;Bethanie;25°33?17?S;27°36?33?E;South Africa;15
+381;      ZAD005;Mpumalanga;26°17?27?S;29°16?32?E;South Africa;ZA3;Bethanie;25°33?17?S;27°36?33?E;South Africa;232
+386;      ZAD006;Noroeste;25°29?00?S;26°10?00?E;South Africa;ZA3;Bethanie;25°33?17?S;27°36?33?E;South Africa;30
+370;      ZAD001;Cabo occidental;33°41?54?S;19°29?26?E;South Africa;ZA4;Buffalo Thorns;31°36?47?S;26°54?21?E;South Africa;1507
+376;      ZAD002;Cabo oriental;31°42?44?S;25°37?52?E;South Africa;ZA4;Buffalo Thorns;31°36?47?S;26°54?21?E;South Africa;239
+382;      ZAD005;Mpumalanga;26°17?27?S;29°16?32?E;South Africa;ZA4;Buffalo Thorns;31°36?47?S;26°54?21?E;South Africa;5496
+387;      ZAD006;Noroeste;25°29?00?S;26°10?00?E;South Africa;ZA4;Buffalo Thorns;31°36?47?S;26°54?21?E;South Africa;350
+391;      ZAD007;Limpopo;23°27?05?S;28°05?28?E;South Africa;ZA4;Buffalo Thorns;31°36?47?S;26°54?21?E;South Africa;6
+395;      ZAD008;KwaZulu-Natal;28°40?00?S;32°02?00?E;South Africa;ZA4;Buffalo Thorns;31°36?47?S;26°54?21?E;South Africa;17
+399;      ZAD009;Gauten;25°39?22?S;28°05?34?E;South Africa;ZA4;Buffalo Thorns;31°36?47?S;26°54?21?E;South Africa;9
+371;      ZAD001;Cabo occidental;33°41?54?S;19°29?26?E;South Africa;ZA6;Hoedspruit;24°21?04?S;30°57?12?E;South Africa;16
+377;      ZAD002;Cabo oriental;31°42?44?S;25°37?52?E;South Africa;ZA6;Hoedspruit;24°21?04?S;30°57?12?E;South Africa;17
+383;      ZAD005;Mpumalanga;26°17?27?S;29°16?32?E;South Africa;ZA6;Hoedspruit;24°21?04?S;30°57?12?E;South Africa;233
+388;      ZAD006;Noroeste;25°29?00?S;26°10?00?E;South Africa;ZA6;Hoedspruit;24°21?04?S;30°57?12?E;South Africa;3
+392;      ZAD007;Limpopo;23°27?05?S;28°05?28?E;South Africa;ZA6;Hoedspruit;24°21?04?S;30°57?12?E;South Africa;4
+396;      ZAD008;KwaZulu-Natal;28°40?00?S;32°02?00?E;South Africa;ZA6;Hoedspruit;24°21?04?S;30°57?12?E;South Africa;4
+400;      ZAD009;Gauten;25°39?22?S;28°05?34?E;South Africa;ZA6;Hoedspruit;24°21?04?S;30°57?12?E;South Africa;60
